@@ -1,0 +1,5 @@
+Things Needed:
+
+-Finish implementing all the Opcodes supported in the DCPU doc.
+--Both signed and unsigned division/multiplication/arithmetic.
+--Couple other opcodes

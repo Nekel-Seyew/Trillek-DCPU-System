@@ -1,0 +1,16 @@
+TODO:
+
+DCPU:
+-Finish Implementing all Opcodes
+-Make more efficient
+-Follows cycles
+
+Software:
+-DCPU assembler
+-C Compiler for DCPU
+
+OS:
+-Actual OS
+
+Hardware:
+-Actual Hardware
